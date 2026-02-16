@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lascuoladeidati/static/css/main.e6c13ad2.css",
-    "main.js": "/lascuoladeidati/static/js/main.ba14ecdc.js",
+    "main.js": "/lascuoladeidati/static/js/main.82371835.js",
     "static/js/453.1289f3d8.chunk.js": "/lascuoladeidati/static/js/453.1289f3d8.chunk.js",
     "index.html": "/lascuoladeidati/index.html",
     "main.e6c13ad2.css.map": "/lascuoladeidati/static/css/main.e6c13ad2.css.map",
-    "main.ba14ecdc.js.map": "/lascuoladeidati/static/js/main.ba14ecdc.js.map",
+    "main.82371835.js.map": "/lascuoladeidati/static/js/main.82371835.js.map",
     "453.1289f3d8.chunk.js.map": "/lascuoladeidati/static/js/453.1289f3d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ba14ecdc.js"
+    "static/js/main.82371835.js"
   ]
 }
